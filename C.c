@@ -1,9 +1,8 @@
 // To print Hello, world. This is Adhvik
 /* 
- * Developed by Rishi @ NIT Jalandhar
+ * Developed by Adhvik @ NIT Jalandhar
  * Licensed under MIT
  */
-
 
 #include <stdio.h>
 int main() {
@@ -18,4 +17,5 @@ int main() {
 
  return 0;
 }
+
 
