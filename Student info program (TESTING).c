@@ -1,10 +1,9 @@
 #include <stdio.h>
 // Student name, roll number, grade, Attendance %
 /* 
- * Developed by Rishi @ NIT Jalandhar
+ * Developed by Adhvik @ NIT Jalandhar
  * Licensed under MIT
  */
-
 int main()
 {
     char student_name[] = "Adhvik";
@@ -17,4 +16,5 @@ int main()
     printf("Attendance: %.2f\n", attendance);
     printf("Grade: %c\n", grade);
 }
+
 
