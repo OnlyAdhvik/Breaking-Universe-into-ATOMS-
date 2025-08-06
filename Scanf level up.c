@@ -1,4 +1,8 @@
 // 3 subject marks and grade. if marks are >33 and average >40 then pass otherwise fail
+/* 
+ * Developed by Rishi @ NIT Jalandhar
+ * Licensed under MIT
+ */
 #include <stdio.h>
 int main()
 {
@@ -42,4 +46,5 @@ int main()
     return 0;
 
 }
+
 
