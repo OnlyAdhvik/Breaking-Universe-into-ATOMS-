@@ -1,5 +1,9 @@
 # include <stdio.h>
 // student report card demanding: Name, Roll number, Marks in 3 subjects and their average and the Grade.
+/* 
+ * Developed by Adhvik @ NIT Jalandhar
+ * Licensed under MIT
+ */
 int main()
 {
     char name[] ;
@@ -38,3 +42,4 @@ int main()
     return 0;
 
 }
+
