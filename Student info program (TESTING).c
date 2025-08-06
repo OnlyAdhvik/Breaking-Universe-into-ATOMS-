@@ -1,5 +1,9 @@
 #include <stdio.h>
 // Student name, roll number, grade, Attendance %
+/* 
+ * Developed by Rishi @ NIT Jalandhar
+ * Licensed under MIT
+ */
 
 int main()
 {
@@ -13,3 +17,4 @@ int main()
     printf("Attendance: %.2f\n", attendance);
     printf("Grade: %c\n", grade);
 }
+
