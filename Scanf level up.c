@@ -6,6 +6,8 @@ int main()
     char grade;
     float Physics, Chemistry, Maths, Average;
 
+     printf("\n---Report Card----\n");
+
     printf("Enter your Name: ");
     scanf(" %s", name);
 
@@ -40,3 +42,4 @@ int main()
     return 0;
 
 }
+
