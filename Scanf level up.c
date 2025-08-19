@@ -15,16 +15,16 @@ int main()
     printf("Enter your Name: ");
     scanf(" %s", name);
 
-    printf("Enter your Grade: ");
+    printf("Enter your Grade(A-E): ");
     scanf(" %c", &grade);
 
-    printf("Physics Marks: ");
+    printf("Physics Marks(0-100): ");
     scanf("%f", &Physics);
 
-    printf("Chemistry's Marks: ");
+    printf("Chemistry's Marks(0-100): ");
     scanf("%f", &Chemistry);
 
-    printf("Math's Marks: ");
+    printf("Math's Marks(0-100): ");
     scanf("%f", &Maths);
 
     Average = (Physics + Chemistry + Maths) / 3;
@@ -45,7 +45,7 @@ int main()
     printf("Average marks are %f\n", Average);
     return 0;
 
-}
+
 
 
 
